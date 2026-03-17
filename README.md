@@ -11,6 +11,9 @@
 
 ## 📌 Project Overview
 
+<img width="1847" height="786" alt="image" src="https://github.com/user-attachments/assets/e815b452-7f44-4834-ac1d-cb54ac9b99b9" />
+
+
 This dashboard simulates a real-world event ticketing risk monitoring system — inspired by operational challenges in the live events industry. It enables business teams to:
 
 - Track **revenue and ticket sales KPIs** across 120+ events
